@@ -1,0 +1,8 @@
+{
+    "model_name": "SVM",
+    "sector_name": "Chemical",
+    "accuracy": 0.4666666666666667,
+    "timestamp": "2025-10-30T18:25:00.449822",
+    "model_path": "saved_models\\Chemical_SVM.joblib",
+    "vectorizer_path": "saved_models\\Chemical_SVM_vectorizer.joblib"
+}

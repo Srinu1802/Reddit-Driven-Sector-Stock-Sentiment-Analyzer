@@ -1,0 +1,8 @@
+{
+    "model_name": "LDA",
+    "sector_name": "Chemical",
+    "accuracy": 0.6666666666666666,
+    "timestamp": "2025-10-30T18:25:13.273463",
+    "model_path": "saved_models\\Chemical_LDA.joblib",
+    "vectorizer_path": "saved_models\\Chemical_LDA_vectorizer.joblib"
+}

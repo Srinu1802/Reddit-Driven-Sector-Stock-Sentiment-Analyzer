@@ -1,0 +1,8 @@
+{
+    "model_name": "LDA",
+    "sector_name": "Banking",
+    "accuracy": 0.42105263157894735,
+    "timestamp": "2025-10-30T18:25:17.542300",
+    "model_path": "saved_models\\Banking_LDA.joblib",
+    "vectorizer_path": "saved_models\\Banking_LDA_vectorizer.joblib"
+}

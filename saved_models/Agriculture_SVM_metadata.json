@@ -1,0 +1,8 @@
+{
+    "model_name": "SVM",
+    "sector_name": "Agriculture",
+    "accuracy": 0.4444444444444444,
+    "timestamp": "2025-10-30T18:24:57.347728",
+    "model_path": "saved_models\\Agriculture_SVM.joblib",
+    "vectorizer_path": "saved_models\\Agriculture_SVM_vectorizer.joblib"
+}
